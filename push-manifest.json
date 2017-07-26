@@ -1,17 +1,7 @@
 {
-  "src/my-app.html": {},
+  "src/main-app.html": {},
   "src/pages/my-view1.html": {},
   "src/pages/my-view2.html": {},
   "src/pages/my-view3.html": {},
-  "src/pages/my-view404.html": {},
-  "src/pages/pa-charts/pa-charts.html": {},
-  "src/pages/pa-dashboard/pa-dashboard.html": {},
-  "src/pages/pa-form-elements/pa-form-elements.html": {},
-  "src/pages/pa-maps/pa-maps.html": {},
-  "src/pages/pa-tables/pa-tables.html": {},
-  "src/pages/pa-buttons/pa-buttons.html": {},
-  "src/pages/pa-ui-other/pa-ui-other.html": {},
-  "src/pages/pa-typo/pa-typo.html": {},
-  "src/pages/pa-profile/pa-profile.html": {},
-  "src/pages/pa-not-found/pa-not-found.html": {}
+  "src/pages/my-view404.html": {}
 }
