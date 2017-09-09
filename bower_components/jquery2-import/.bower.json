@@ -1,0 +1,19 @@
+{
+  "name": "jquery2-import",
+  "private": true,
+  "dependencies": {
+    "jquery2": "jquery#2.*"
+  },
+  "version": "0.5.6",
+  "homepage": "https://github.com/Polymer/jquery2-import",
+  "_release": "0.5.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.5.6",
+    "commit": "4dbe51d0d1ed383dc54038c86f4319ca82bb1219"
+  },
+  "_source": "https://github.com/Polymer/jquery2-import.git",
+  "_target": "^0.5.6",
+  "_originalSource": "Polymer/jquery2-import",
+  "_direct": true
+}
