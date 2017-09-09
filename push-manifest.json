@@ -1,46 +1,5 @@
 {
-  "index.html": {
-    "elements/pages/pa-charts/pa-charts.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "elements/pages/pa-dashboard/pa-dashboard.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "elements/pages/pa-form-elements/pa-form-elements.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "elements/pages/pa-maps/pa-maps.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "elements/pages/pa-tables/pa-tables.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "elements/pages/pa-buttons/pa-buttons.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "elements/pages/pa-ui-other/pa-ui-other.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "elements/pages/pa-typo/pa-typo.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "elements/pages/pa-profile/pa-profile.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "elements/pages/pa-not-found/pa-not-found.html": {
-      "type": "document",
-      "weight": 1
-    }
-  },
+  "elements/splash-screen.html": {},
   "elements/pages/pa-buttons/pa-buttons.html": {},
   "elements/pages/pa-charts/pa-charts.html": {},
   "elements/pages/pa-dashboard/pa-dashboard.html": {},

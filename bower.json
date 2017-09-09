@@ -1,7 +1,7 @@
 {
-  "name": "polymer-starter-kit",
+  "name": "erith-games-site",
   "authors": [
-    "The Polymer Authors"
+    "Erith Studio"
   ],
   "license": "https://polymer.github.io/LICENSE.txt",
   "dependencies": {
