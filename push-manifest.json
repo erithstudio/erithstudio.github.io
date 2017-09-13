@@ -172,6 +172,14 @@
       "type": "document",
       "weight": 1
     },
+    "elements/games/games-list-style.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "elements/games/games-list.html": {
+      "type": "document",
+      "weight": 1
+    },
     "scripts/app.js": {
       "type": "script",
       "weight": 1
